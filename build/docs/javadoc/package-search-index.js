@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.mails_gradle","l":"com.example.mails_gradle"}];updateSearchResults();

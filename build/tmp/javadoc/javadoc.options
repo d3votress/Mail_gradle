@@ -1,0 +1,13 @@
+--module-path '/Users/kirillbavin/Downloads/Mails_gradle 2/build/classes/java/main:/Users/kirillbavin/Downloads/Mails_gradle 2/build/resources/main:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-fxml/17.0.9/711d057034aa3f4cc8f6778a4f5593917c7a49e1/javafx-fxml-17.0.9-mac.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.9/74637ef5c153918bdf52ccd53ff9f4c48fd427f5/javafx-controls-17.0.9-mac.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-controls/17.0.9/ed4285bf14df8d47f5da791f05132372354899a1/javafx-controls-17.0.9.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.9/43f1e1b6e6205ca3957ba8864e8b4e1a4a88b669/javafx-graphics-17.0.9-mac.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-graphics/17.0.9/fa9909da4ac23fec5936a27256cbde474a0d2700/javafx-graphics-17.0.9.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.9/bdee8184af524a7171f827aa2bf8a1a6dfd9b329/javafx-base-17.0.9-mac.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/org.openjfx/javafx-base/17.0.9/11f0b368ea353792ef757fc8d0c4e9d182aae2d/javafx-base-17.0.9.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/javax.mail/mail/1.4.7/9add058589d5d85adeb625859bf2c5eeaaedf12d/mail-1.4.7.jar:/Users/kirillbavin/.gradle/caches/modules-2/files-2.1/javax.activation/activation/1.1/e6cb541461c2834bdea3eb920f1884d1eb508b50/activation-1.1.jar'
+-d '/Users/kirillbavin/Downloads/Mails_gradle 2/build/docs/javadoc'
+-doctitle 'Mails_gradle 1.0-SNAPSHOT API'
+-notimestamp 
+-quiet 
+-windowtitle 'Mails_gradle 1.0-SNAPSHOT API'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/module-info.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/MailController.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/Texts_and_mails.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/Main.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/MailSpam.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/MailApplication.java'
+'/Users/kirillbavin/Downloads/Mails_gradle 2/src/main/java/com/example/mails_gradle/Hider.java'
